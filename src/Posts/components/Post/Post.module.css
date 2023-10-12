@@ -1,0 +1,16 @@
+.backButton {
+    margin: 5vh;
+    width: 9vh;
+    height: 3vh;
+}
+
+.post {
+    display: flex;
+    flex-direction: column;
+    gap: 2vh;
+    width: 100%;
+    background-color: var(--color-light);
+    border-radius: 1vh;
+    margin-top: 6vh;
+    padding: 1vh;
+}
